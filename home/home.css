@@ -1,0 +1,41 @@
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.head{
+    text-align: center;
+    background-image: url(./bg1.jpg);
+}
+
+h1{
+    color: #fff;
+}
+
+body{
+    color: #333;
+}
+
+.warn{
+    font-family: 'Roboto';
+}
+
+#xx{
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    text-align: center;
+    font-size: 26px;
+    background: red;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+#x{
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    text-align: center;
+    font-size: 26px;
+    background: blue;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
